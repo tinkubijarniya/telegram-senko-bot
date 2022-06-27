@@ -37,7 +37,7 @@ For both development and runtime environments:
    ```
 2. Clone the repo:
    ```sh
-   git clone https://github.com/4Kaze/telegram-senko-bot.git
+   git clone https://github.com/tinkubijarniya/telegram-senko-bot.git
    ```
 3. Download [**NotoSansCJKjp-Black.otf**](https://www.google.com/get/noto/help/cjk/) font into the project folder:
     ```sh
